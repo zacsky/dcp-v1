@@ -1,6 +1,6 @@
 
 body {
-    background: #01ABAA;
+    background: #017BDC;
     font-family: 'Montserrat', sans-serif;
     color: #FDFCFB;
     text-align: center;
@@ -14,8 +14,7 @@ body {
   
  h1
   {
-    color: #FBA100;
-    font-weight: bold;  
+    color: #F5A100;  
     font-size:50px;
   }
   
@@ -85,12 +84,12 @@ body {
     
   
   #mc-embedded-subscribe:hover {
-    background: #6C648B ;
+    background: #007849  ;
   }
     
   
   input:focus {
     outline: none;
-    outline: 2px solid #6C648B ;
-    box-shadow: 0 0 2px #6C648B ;
+    outline: 2px solid #FBA100 ;
+    box-shadow: 0 0 2px #FBA100 ;
   }
