@@ -15,10 +15,21 @@ body {
   
   .header {
     font-size: 34px;
-    text-transform: uppercase;
-    letter-spacing: 5px;
+    /*text-transform: uppercase;
+    letter-spacing: 5px;*/
   }
   
+  .content {
+    /*display: flex;
+    flex: 1;*/
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+    padding-top: 50px;
+  position: relative;
+  max-width: 60%;
+  
+  }
   
   .description {
     font-size: 24px;
