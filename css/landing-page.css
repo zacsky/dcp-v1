@@ -131,11 +131,11 @@ body {
 
   .container
   {
-    background: #ffffff;
+    /* background: #ffffff; */
     margin-top: 2%;
-    max-width: 66%;
+    max-width: 75%;
     padding: 2%;
-    color: #000000;
+    /* color: #000000; */
   }
   .btn{
     height: 46px;
@@ -148,6 +148,7 @@ body {
     cursor: pointer;
     padding: 0;
     border: 0;
+    color: #000000;
   }
 
 .btn:hover {
