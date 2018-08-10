@@ -1,6 +1,11 @@
 
 body {
-    background: #017BDC;
+    /*background: #017BDC;*/
+    background: #665fee;
+background: -moz-linear-gradient(45deg, #665fee 0%, #27c2de 100%);
+background: -webkit-linear-gradient(45deg, #665fee 0%, #27c2de 100%);
+background: linear-gradient(45deg, #665fee 0%, #27c2de 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#665fee', endColorstr='#27c2de',GradientType=1 );
     font-family: 'Montserrat', sans-serif;
     color: #FDFCFB;
     text-align: center;
