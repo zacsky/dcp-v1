@@ -9,9 +9,13 @@ body {
   
   form {
     width: 800px;
-    margin: 10% auto;
+    margin: 5% auto;
   }
   
+.logo {
+    background: ('img/Dream-Career-Project-BlackColourStar-Full-2.png') center;
+  }
+
  h1
   {
     color: #F5A100;  
@@ -23,6 +27,9 @@ body {
     /*text-transform: uppercase;
     letter-spacing: 5px;*/
   }
+
+  
+  
   
   .content {
     /*display: flex;
