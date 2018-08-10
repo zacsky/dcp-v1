@@ -9,16 +9,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#665fee', end
     font-family: 'Montserrat', sans-serif;
     color: #FDFCFB;
     text-align: center;
+    min-height: 100vh;
+    margin: 0;
+padding: 0;
   }
   
   
   form {
     width: 800px;
     margin: 5% auto;
-  }
-  
-.logo {
-    background: ('img/Dream-Career-Project-BlackColourStar-Full-2.png') center;
   }
 
  h1
