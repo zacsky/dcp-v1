@@ -163,3 +163,7 @@ body {
   img{
     max-width: 100%;
   }
+
+  .fa {
+    font-size: 64px;
+  }
