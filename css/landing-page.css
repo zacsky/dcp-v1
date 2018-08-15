@@ -166,4 +166,16 @@ body {
 
   .fa {
     font-size: 64px;
+    
+  }
+
+  .download
+  {
+    font-family: 'Montserrat', sans-serif;
+    font-size:32px;
+    font-weight: bold;
+  }
+
+  a {
+    color: #ffffff;
   }
