@@ -132,9 +132,10 @@ body {
   .container
   {
     /* background: #ffffff; */
-    margin-top: 2%;
+    margin-top: 0%;
     /* max-width: 75%; */
-     padding: 2%;
+     /* padding: 2%; */
+     padding: 0;
     /* color: #000000; */
   }
   .btn{
@@ -176,6 +177,13 @@ body {
     font-weight: bold;
   }
 
+  .mb-5 {
+    margin-bottom: 1rem !important;
+  }
+
+  p {
+    margin-bottom: 0.5rem !important;
+  }
   a {
     color: #ffffff;
   }
