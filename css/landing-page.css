@@ -191,4 +191,14 @@ body {
   .archive{
     background-color: #ffffff;
     color: #000000;
+    text-align: left;
+  }
+
+  .archive p {
+    padding: 0px 20px 10px 20px;
+  }
+
+  .archive h1 {
+    padding-top:2%;
+    text-align: center
   }
