@@ -202,3 +202,25 @@ body {
     padding-top:2%;
     text-align: center
   }
+
+  .alertsignup {
+    color: #665fee;
+    text-decoration: underline;
+  }
+
+  .footer-container{
+    background-color: #444444;
+    padding-top: 30px;
+  }
+
+  .footer-container a:hover {
+    color: #DDDDDD;
+  }
+
+  .footer-container ul {
+    list-style-type: none;
+  }
+
+  .cta-signup {
+    padding: 10px 0px 30px 0px;
+  }
