@@ -188,6 +188,7 @@ body {
     color: #ffffff;
   }
 
+
   .archive{
     background-color: #ffffff;
     color: #000000;
@@ -201,6 +202,11 @@ body {
   .archive h1 {
     padding-top:2%;
     text-align: center
+  }
+
+  .archive a {
+    color:#0000ff;
+    text-decoration: underline;
   }
 
   .alertsignup {
