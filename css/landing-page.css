@@ -147,13 +147,19 @@ body {
     color: inherit;
     border-radius: 5px 5px 5px 5px;
     cursor: pointer;
-    padding: 0;
+    padding: 3px;
     border: 0;
     color: #000000;
   }
 
 .btn:hover {
     background: #007849  ;
+  }
+
+  .btn-archives
+  {
+    margin-bottom:10px;
+    font-weight:normal;
   }
 
   .description
@@ -217,6 +223,7 @@ body {
   .footer-container{
     background-color: #444444;
     padding-top: 30px;
+    text-align: left;
   }
 
   .footer-container a:hover {
@@ -225,6 +232,7 @@ body {
 
   .footer-container ul {
     list-style-type: none;
+    padding: 0;
   }
 
   .cta-signup {
