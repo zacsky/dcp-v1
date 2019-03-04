@@ -238,3 +238,9 @@ body {
   .cta-signup {
     padding: 10px 0px 30px 0px;
   }
+
+  .archives-link
+  {
+    text-decoration: underline;
+    font-weight: bold;
+   }
